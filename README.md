@@ -37,11 +37,3 @@ bms-website/
 ├── index.html
 └── README.md
 ```
-
-## Preview
-
-![Figma Design Preview](./designs/preview.png)
-
-## How to run
-
-Open `index.html` in a browser, or use VS Code Live Server.
