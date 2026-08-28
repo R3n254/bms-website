@@ -11,8 +11,7 @@ A website implementation based on my Figma design.
 | Information | Details |
 |---|---|
 | Name | Daniel Pedrosaputra |
-| NRP | **PUT YOUR NRP HERE** |
-| Class | **PUT YOUR CLASS HERE** |
+| NRP | **5025251171** |
 
 ## Description
 
