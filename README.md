@@ -40,7 +40,7 @@ bms-website/
 
 ## Preview
 
-![Figma Design Preview](designs/preview.png)
+![Figma Design Preview](./designs/preview.png)
 
 ## How to run
 
